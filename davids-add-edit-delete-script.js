@@ -231,8 +231,8 @@ function showTable( ) {
     var data = {
         people: [
             {
-                name: 'Bob',
-                age: 56
+              name: 'Bob',
+              age: 56
             },
             {
               name: 'Karen',
